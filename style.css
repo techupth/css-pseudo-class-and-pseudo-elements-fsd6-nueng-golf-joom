@@ -1,1 +1,12 @@
-/* Start coding here */
+#email[disables] {
+    background-color: lightgrey;
+
+}
+
+#username,#email,#password:hover {
+    border-color: khaki;
+}
+
+button:hover {
+    color: pink;
+}
